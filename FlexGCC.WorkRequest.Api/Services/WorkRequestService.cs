@@ -3,8 +3,7 @@ using FlexGCC.WorkRequest.Api.Data;
 using FlexGCC.WorkRequest.Api.DTOs;
 using FlexGCC.WorkRequest.Api.Models;
 using Microsoft.EntityFrameworkCore;
-using WorkRequestModel =
-    FlexGCC.WorkRequest.Api.Models.WorkRequest;
+using WorkRequestModel = FlexGCC.WorkRequest.Api.Models.WorkRequest;
 
 namespace FlexGCC.WorkRequest.Api.Services
 {
